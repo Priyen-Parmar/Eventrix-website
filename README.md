@@ -11,7 +11,7 @@ Eventrix is a student community event management platform designed to streamline
 - View and manage a personalized Favourites section.
 - Edit and update personal information, including password.
 
- #Admins (Coordinators)
+ Admins (Coordinators)
 - Create, update, and delete events.
 - Manage entity profiles (e.g., Club info, Coordinators list, etc.).
 
@@ -33,14 +33,14 @@ Other Tools
 - Cloudinary / Multer – for image uploads (if used)
 
 
- Getting Started
+# Getting Started
 
 Prerequisites
 - Node.js (v18+ recommended)
 - MongoDB Atlas or local instance
 - [Optional] Cloudinary account for image uploads
 
- Installation
+# Installation
 
 1. Clone the repo
 git clone https://github.com/your-username/eventrix.git
