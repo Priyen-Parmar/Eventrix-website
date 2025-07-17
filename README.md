@@ -1,8 +1,8 @@
- Eventrix
+# Eventrix
 
 Eventrix is a student community event management platform designed to streamline the discovery, creation, and management of events across campus clubs, councils, cells, and fests. It provides a modern interface for both students and coordinators, with seamless email notifications and personalized event tracking.
 
- Features
+# Features
 
  Student Users
 - Browse and discover upcoming events.
@@ -11,7 +11,7 @@ Eventrix is a student community event management platform designed to streamline
 - View and manage a personalized Favourites section.
 - Edit and update personal information, including password.
 
- Admins (Coordinators)
+ #Admins (Coordinators)
 - Create, update, and delete events.
 - Manage entity profiles (e.g., Club info, Coordinators list, etc.).
 
